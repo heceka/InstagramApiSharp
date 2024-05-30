@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{25DEBDED-4F9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstagramApiSharp", "src\InstagramApiSharp\InstagramApiSharp.csproj", "{2A588963-CEBE-47EC-BFBB-2F3D405E4C80}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{DD1EC1E2-923A-4703-A595-A4231EF4DE5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blockout2024", "Blockout2024\Blockout2024.csproj", "{48EE60A7-DF3B-45F2-A204-C01DF893445E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,12 +39,29 @@ Global
 		{2A588963-CEBE-47EC-BFBB-2F3D405E4C80}.Release|x64.Build.0 = Release|Any CPU
 		{2A588963-CEBE-47EC-BFBB-2F3D405E4C80}.Release|x86.ActiveCfg = Release|Any CPU
 		{2A588963-CEBE-47EC-BFBB-2F3D405E4C80}.Release|x86.Build.0 = Release|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Debug|ARM.Build.0 = Debug|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Debug|x64.Build.0 = Debug|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Debug|x86.Build.0 = Debug|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Release|ARM.ActiveCfg = Release|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Release|ARM.Build.0 = Release|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Release|x64.ActiveCfg = Release|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Release|x64.Build.0 = Release|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Release|x86.ActiveCfg = Release|Any CPU
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2A588963-CEBE-47EC-BFBB-2F3D405E4C80} = {25DEBDED-4F9C-47F5-BC3F-4D5ED7D42090}
+		{48EE60A7-DF3B-45F2-A204-C01DF893445E} = {DD1EC1E2-923A-4703-A595-A4231EF4DE5B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {47999AC0-6BDC-43EB-BB19-674E8470ECDD}
